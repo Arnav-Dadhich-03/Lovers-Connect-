@@ -1,0 +1,12 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="200dp"
+    android:height="40dp"
+    android:viewportWidth="200"
+    android:viewportHeight="40">
+
+    <path
+        android:name="tagline"
+        android:strokeColor="@android:color/white"
+        android:strokeWidth="0.8"
+        android:pathData="M20,25 C30,10 40,10 50,25 M45,15 L55,35 M60,15 L70,35 M65,25 L75,25 M80,15 L80,35 M85,15 L95,15 M85,25 L95,25 M85,35 L95,35 M100,15 L110,35 M105,25 L115,25 M120,15 C130,35 140,35 150,15" />
+</vector>

@@ -1,0 +1,9 @@
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/tvHeaderDate"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="16dp"
+    android:text="July 22, 2025"
+    android:textColor="?attr/colorPrimary"
+    android:textSize="16sp"
+    android:textStyle="bold" />

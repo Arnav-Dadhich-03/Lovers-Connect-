@@ -1,0 +1,32 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <style name="Theme.App.Starting" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">@color/colorPrimary</item>
+        <item name="windowSplashScreenAnimatedIcon">@drawable/ic_launcher_foreground</item>
+        <item name="postSplashScreenTheme">@style/Theme.LoversConnect</item>
+    </style>
+
+    <style name="Base.Theme.LoversConnect" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:windowBackground">@color/windowBackground</item>
+    </style>
+
+    <style name="Theme.LoversConnect" parent="Base.Theme.LoversConnect" />
+
+    <style name="Theme.LoversConnect.Blue" parent="Base.Theme.LoversConnect">
+        <item name="colorPrimary">@color/colorPrimaryBlue</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDarkBlue</item>
+    </style>
+    <style name="Theme.LoversConnect.Purple" parent="Base.Theme.LoversConnect">
+        <item name="colorPrimary">@color/colorPrimaryPurple</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDarkPurple</item>
+    </style>
+    <style name="Theme.LoversConnect.ImageViewer" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="android:windowBackground">@android:color/black</item>
+    </style>
+    <style name="ShapeAppearance.App.CornerSize20dp" parent="">
+        <item name="cornerSize">20dp</item>
+    </style>
+</resources>

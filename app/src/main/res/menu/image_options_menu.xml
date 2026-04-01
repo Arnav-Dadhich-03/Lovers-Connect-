@@ -1,0 +1,5 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/action_save_image" android:title="Save Image" />
+    <item android:id="@+id/action_delete_for_me" android:title="Delete for me" />
+    <item android:id="@+id/action_delete_for_everyone" android:title="Delete for everyone" />
+</menu>

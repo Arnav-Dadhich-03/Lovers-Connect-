@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_logout"
+        android:title="Logout"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_set_wallpaper"
+        android:title="Set Wallpaper"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_wallpaper_opacity"
+        android:title="Wallpaper Opacity"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_clear_chat"
+        android:title="Clear Chat"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_add_reminder"
+        android:title="Add Reminder"
+        app:showAsAction="ifRoom"
+        android:icon="@android:drawable/ic_menu_my_calendar" />
+    <item android:id="@+id/action_view_reminders"
+        android:title="View Reminders"
+        app:showAsAction="never" />
+    <item android:id="@+id/action_view_gallery"
+        android:title="Chat Gallery"
+        app:showAsAction="never" />
+
+</menu>
