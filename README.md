@@ -43,9 +43,6 @@ Follow these instructions to get a copy of the project up and running on your lo
 ### Installation & Setup
 
 1.  **Clone the repository:**
-    ```bash
-    git clone [https://github.com/YOUR_GITHUB_USERNAME/LoversConnect.git](https://github.com/YOUR_GITHUB_USERNAME/LoversConnect.git)
-    ```
 2.  **Open the project:** Open Android Studio, select "Open an existing project," and navigate to the cloned folder.
 3.  **Set up Firebase:**
     * Go to the [Firebase Console](https://console.firebase.google.com/) and create a new project.
@@ -67,7 +64,5 @@ This project is actively being developed. Upcoming features include:
 * [ ] Instant "Thinking of You" notifications.
 
 ## 🤝 Contributing
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/Arnav-Dadhich-03/LoversConnect/issues).
+Contributions, issues, and feature requests are welcome!
 
-## 📄 License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
