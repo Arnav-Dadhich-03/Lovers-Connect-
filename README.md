@@ -29,7 +29,7 @@ A beautifully designed, feature-rich Android application tailored for couples to
 
 ## 📸 Screenshots
 
-|<img src="https://drive.google.com/file/d/1fd8gtaA7PM-x8YjXg3YDLuraYdgfwEPp/view?usp=sharing" width="250"> | <img src="https://drive.google.com/file/d/1DBuqWj9Q_06EVX55ouJ10dpEwP2DEx8y/view?usp=sharing" width="250"> | <img src="https://drive.google.com/file/d/1zaUICurHkRlh9noxWF4dCq1uxK1F8MXY/view?usp=sharing" width="250"> |
+|<img src="images/1.jpeg" width="250"> | <img src="images/2.jpeg" width="250"> | <img src="images/3.jpeg" width="250"> | <img src="images/4.jpeg" width="250"> |
 
 ## 🚀 Getting Started
 
